@@ -1,2 +1,2 @@
 # Life_Expectancy_GDP
-I'll delve into the intriguing GDP-life expectancy relationship across six countries using WHO and World Bank data. Through analysis and visualization, we'll uncover insights about this connection.
+I'll explore the captivating link between GDP and life expectancy across six countries. Using data from the World Health Organization and World Bank, I'll analyze, visualize, and discover insights that reveal the fascinating connections between these factors. Join me on this data analysis journey, where I employ Python libraries like Pandas, Matplotlib, and Seaborn to skillfully preprocess, analyze, and present the data.
