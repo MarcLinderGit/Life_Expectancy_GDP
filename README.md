@@ -1,1 +1,2 @@
 # Life_Expectancy_GDP
+I'll delve into the intriguing GDP-life expectancy relationship across six countries using WHO and World Bank data. Through analysis and visualization, we'll uncover insights about this connection.
